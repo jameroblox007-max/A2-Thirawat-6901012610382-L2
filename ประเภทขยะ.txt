@@ -1,0 +1,23 @@
+ชื่อ , คุณสมบัติ , พฤติกรรม
+กล่องโฟมเปื้อนอาหาร,general,dirty
+ขวดน้ำพลาสติก PET,recycle,clean
+กระป๋องเปื้อนคราบน้ำมัน,recycle,dirty
+ถ่านไฟฉายใช้แล้ว,hazardous,clean
+หลอดไฟฟลูออเรสเซนต์,hazardous,clean
+ซองกาแฟสำเร็จรูป,general,dirty
+ถุงพลาสติกเปื้อนคราบแกง,general,dirty
+กระป๋องน้ำอัดลมอลูมิเนียม,recycle,clean
+กล่องลังกระดาษ,recycle,clean
+ขวดแก้วเครื่องดื่ม,recycle,clean
+แบตเตอรี่โทรศัพท์มือถือ,hazardous,clean
+กระป๋องสเปรย์ยากันยุง,hazardous,clean
+กระดาษชำระใช้แล้ว,general,dirty
+ซองขนมขบเคี้ยว,general,dirty
+ช้อนพลาสติกใช้แล้วทิ้ง,general,dirty
+ถุงนมพลาสติก,recycle,clean
+สมุดโน้ตเก่า,recycle,clean
+น้ำยาทำความสะอาดหมดอายุ,hazardous,clean
+ขวดยากระจกพร้อมคราบยา,hazardous,dirty
+แก้วพลาสติกแบบใช้ครั้งเดียว,general,clean
+
+สัปดาห์ 1 กำหนดข้อมูลและประเภทขยะ
