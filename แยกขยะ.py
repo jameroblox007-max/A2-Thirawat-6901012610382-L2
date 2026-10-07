@@ -5,9 +5,9 @@ def load_waste(filename):
     items = []
     with open(filename, encoding="utf-8") as f:
         reader = csv.reader(f)
-        next(reader)  # ข้ามหัวตาราง
+        next(reader) 
         for row in reader:
-            if len(row) != 3:  # ข้ามบรรทัดว่างหรือบรรทัดที่ไม่ครบ 3 ช่อง
+            if len(row) != 3:  
                 continue
             name, kind, state = [x.strip() for x in row]
             items.append({"name": name, "type": kind, "state": state})
@@ -43,4 +43,6 @@ def main():
 
 
 main()
+
+#สัปดาห์ที่ 2 แยกขยะแต่ยังไม่มี interaction + ส่งด้วย git hub
 
